@@ -11,4 +11,4 @@ Um die Anzeige zurück auf den Ausgangswert (null) zu setzen, können die Taster
 Sollte die Toranzeige während dem Spiel manuell korrigiert werden müssen, kann dies über die Taster links und rechts vom MicroBit durchgeführt werden.
 Der Taster (A) links am MicroBit korrigiert die Anzeige um minus eins.
 Der Taster (B) rechts am MicroBit korrigiert die Anzeige um plus eins.
-Bei einem Sieg (Tore = 10), wird das Ende des Spiels durch einen Signalton beendet.
+Bei einem Sieg (Tore = 10), wird das Ende des Spiels durch einen Signalton ausgerufen und die Anzeige wird zurück auf null gesetzt.
